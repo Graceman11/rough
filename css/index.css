@@ -1,0 +1,66 @@
+h1 {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color: darkgrey;
+}
+
+div{
+    text-align: center;
+    margin-top: 30px;
+}
+
+.button1{
+    background-color: orangered;
+    padding: 8px 50px;
+    color: white;
+    border-radius: 4px;
+    text-decoration: none;
+}
+
+.button2{
+    background-color: orangered;
+    padding: 8px 50px;
+    color: white;
+    border-radius: 4px;
+    text-decoration: none;
+}
+.button3{
+    background-color: orangered;
+    padding: 8px 50px;
+    color: white;
+    border-radius: 4px;
+    text-decoration: none;
+}
+
+.line{
+    height: 8px;
+    background-color: orangered;
+    margin-top: 35px;
+    box-shadow: 0px 10px 40px black;
+}
+
+.pix{
+    width: 30%;
+    float: left;
+    margin: 5%;
+    margin-left: 21%;
+}
+
+.welc{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: dimgray;
+    text-align: left;
+    margin-top: 10%;
+    font-size: 2.5em;
+}
+
+.button{
+    color: white;
+    background-color: orangered;
+    padding: 5px 40px;
+
+}
+.wel{
+    text-align: left;
+    color: dimgray;
+}
